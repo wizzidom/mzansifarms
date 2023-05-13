@@ -64,7 +64,12 @@
 
     .us_section .us_container {
         flex-direction: column;
+        margin: 10px 100px 0 120px;
+       
     }
+    .us_section .us_container .box .img-box img {
+        width: 200%;
+      }
 
     .client_section .box {
         width: 100%;

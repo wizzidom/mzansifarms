@@ -529,7 +529,7 @@ a:focus {
 }
 
 .us_section .us_container .box .img-box {
-  height: 100px;
+  height: 150px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -542,7 +542,7 @@ a:focus {
 }
 
 .us_section .us_container .box .img-box img {
-  max-width: 100%;
+  width: 100%;
 }
 
 .us_section .us_container .box .detail-box h5 {
