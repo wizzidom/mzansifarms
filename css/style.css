@@ -93,6 +93,7 @@ body {
 }
 
 .custom_nav-container .contact_nav {
+  
   width: 95%;
   margin-right: auto;
 }
@@ -105,6 +106,7 @@ body {
 
 .custom_nav-container .contact_nav .nav-item .nav-link {
   padding: 0px 25px;
+  
   color: #000000;
   text-align: center;
 }
@@ -115,6 +117,7 @@ body {
 }
 
 .custom_nav2 {
+  
   padding: 0 45px;
 }
 
